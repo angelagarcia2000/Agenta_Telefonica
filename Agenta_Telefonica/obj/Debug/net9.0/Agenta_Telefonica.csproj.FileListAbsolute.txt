@@ -26,3 +26,4 @@ C:\Agenta_Telefonica\Agenta_Telefonica\obj\Debug\net9.0\refint\Agenta_Telefonica
 C:\Agenta_Telefonica\Agenta_Telefonica\obj\Debug\net9.0\Agenta_Telefonica.pdb
 C:\Agenta_Telefonica\Agenta_Telefonica\obj\Debug\net9.0\Agenta_Telefonica.genruntimeconfig.cache
 C:\Agenta_Telefonica\Agenta_Telefonica\obj\Debug\net9.0\ref\Agenta_Telefonica.dll
+C:\Agenta_Telefonica\Agenta_Telefonica\obj\Debug\net9.0\Agenta_Telefonica.sourcelink.json

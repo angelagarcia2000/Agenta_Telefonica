@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Agenta_Telefonica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dd6b12a6c96a8b786c087cab9860683b6fe1bff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Agenta_Telefonica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Agenta_Telefonica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
